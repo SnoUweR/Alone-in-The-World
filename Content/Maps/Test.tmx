@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="32" height="48" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" name="473" tilewidth="32" tileheight="32">
+  <image source="C:/Users/Vladislav/Documents/visual studio 2010/Projects/Farseer Physics Engine 3.3.1 HelloWorld XNA/HelloWorld XNA/Content/TileSheets/473.png" width="672" height="192"/>
+ </tileset>
+ <layer name="Main" width="32" height="48" opacity="0.13">
+  <data encoding="base64" compression="zlib">
+   eJztwwEJAAAIA7Bbyf7hjHGQDZYAAAAAAMA/Wz7lB9z8BmE=
+  </data>
+ </layer>
+ <layer name="HitGround" width="32" height="48">
+  <data encoding="base64" compression="zlib">
+   eJztwzEJAAAMA7Ce9a+4JgZ7EkgCAAAAAABc6/MBWgABAQ==
+  </data>
+ </layer>
+</map>

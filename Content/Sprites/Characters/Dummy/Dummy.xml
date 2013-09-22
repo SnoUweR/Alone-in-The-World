@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Dummy>
+  <!-- TODO: replace this Asset with your own XML asset data. -->
+  <stand FrameWidth="32" FrameHeight="80"
+              SheetRows="1" SheetColumns="1"
+              Speed="10"
+              SheetName="Sprites/Characters/Dummy/Idle" />
+  <walking FrameWidth="32" FrameHeight="80"
+              SheetRows="1" SheetColumns="1"
+              Speed="20"
+              SheetName="Sprites/Characters/Dummy/Walking" />
+  <jumping FrameWidth="32" FrameHeight="80"
+              SheetRows="1" SheetColumns="1"
+              Speed="20"
+              SheetName="Sprites/Characters/Dummy/Jumping" />
+</Dummy>
